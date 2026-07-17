@@ -50,13 +50,13 @@ The following data preparation steps were performed:
 
 ## Data Model
 
-![Data Model](Images/data-model.png)
+![data model](Images/data-model.jpeg)
 
 ---
 
 ## Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard.jpeg)
 
 ---
 
@@ -111,7 +111,7 @@ Dano-Airline-Passenger-Satisfaction-Analysis
 
 **Amanda Jubin-Fofie**
 
-Registered Clinical Dietitian | Aspiring Health Data Analyst
+Registered Clinical Dietitian | Aspiring Healthcare Data Analyst
 
 Power BI • SQL • Excel • Data Analytics
 
