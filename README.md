@@ -1,5 +1,7 @@
 # ✈️ Dano Airline - Passenger Satisfaction Analysis
 
+![Dashboard](Images/DANO-AIRLINE-DASHBOARD.jpeg)
+
 ## Project Overview
 
 This project analyzes airline passenger satisfaction data using Microsoft Power BI. The objective was to identify the key factors influencing passenger dissatisfaction and provide actionable insights to improve customer experience and operational performance.
