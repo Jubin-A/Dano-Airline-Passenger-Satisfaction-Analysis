@@ -12,13 +12,24 @@ Airlines need to understand the drivers of passenger dissatisfaction to improve 
 
 ---
 
+## Objectives
+
+- Analyze passenger satisfaction levels.
+- Identify factors influencing customer satisfaction.
+- Examine the impact of travel class and customer type.
+- Evaluate the effect of flight delays on satisfaction.
+- Build an interactive Power BI dashboard for business users.
+
+---
+
 ## Tools Used
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-
+| Tool | Purpose |
+|------|----------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning |
+| DAX | Calculations and KPIs |
+| Excel | Data Source |
 ---
 
 ## Dataset
@@ -28,6 +39,7 @@ The dataset contains passenger information including:
 - Passenger demographics
 - Travel class
 - Customer type
+- Flight distance
 - Flight delays
 - Service ratings
 - Overall satisfaction
@@ -45,16 +57,21 @@ The following data preparation steps were performed:
 - Categorized delay durations
 - Created calculated columns
 - Built a star schema data model
+- Checked data quality
 
 ---
 
 ## Data Model
+
+A star schema was created to improve performance and simplify analysis.
 
 ![data model](Images/data-model.jpeg)
 
 ---
 
 ## Dashboard
+
+The interactive Power BI dashboard provides insights into passenger satisfaction, service quality, customer demographics, and operational performance.
 
 ![Dashboard](Images/DANO-AIRLINE-DASHBOARD.jpeg)
 
@@ -96,12 +113,21 @@ The following data preparation steps were performed:
 ## Repository Structure
 
 ```
-Dano-Airline-Passenger-Satisfaction-Analysis
-
-├── Dashboard
-├── Data
-├── Images
-├── Report
+Dano-Airline-Passenger-Satisfaction-Analysis/
+│
+├── Dashboard/
+│   └── Airline Passenger Satisfaction Dashboard.pbix
+│
+├── Data/
+│   └── airline_passenger_satisfaction.csv
+│
+├── Images/
+│   ├── dashboard.png
+│   ├── ![data model](Images/data-model.jpeg)
+│
+├── Report/
+│   └── Airline Passenger Satisfaction Analysis.pdf
+│
 └── README.md
 ```
 
