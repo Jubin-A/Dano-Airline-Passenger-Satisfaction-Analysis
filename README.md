@@ -126,7 +126,7 @@ Dano-Airline-Passenger-Satisfaction-Analysis/
 │   ├── ![data model](Images/data-model.jpeg)
 │
 ├── Report/
-│   └── Airline Passenger Satisfaction Analysis.pdf
+│   └── Amanda Jubin-Fofie_Airline Data.pdf
 │
 └── README.md
 ```
