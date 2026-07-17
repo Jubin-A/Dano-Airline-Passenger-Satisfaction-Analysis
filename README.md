@@ -116,7 +116,7 @@ The interactive Power BI dashboard provides insights into passenger satisfaction
 Dano-Airline-Passenger-Satisfaction-Analysis/
 │
 ├── Dashboard/
-│   └── Airline Passenger Satisfaction Dashboard.pbix
+│   └── Amanda Jubin-Fofie_Airline data.pbix
 │
 ├── Data/
 │   └── airline_passenger_satisfaction.csv
