@@ -122,7 +122,7 @@ Dano-Airline-Passenger-Satisfaction-Analysis/
 │   └── airline_passenger_satisfaction.csv
 │
 ├── Images/
-│   ├── dashboard.png
+│   ├── ![Dashboard](Images/DANO-AIRLINE-DASHBOARD.jpeg)
 │   ├── ![data model](Images/data-model.jpeg)
 │
 ├── Report/
