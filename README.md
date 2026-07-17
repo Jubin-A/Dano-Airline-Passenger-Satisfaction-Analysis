@@ -119,7 +119,7 @@ Dano-Airline-Passenger-Satisfaction-Analysis/
 │   └── Amanda Jubin-Fofie_Airline data.pbix
 │
 ├── Data/
-│   └── airline_passenger_satisfaction.csv
+│   └── Data/Airline data - airline_passenger_satisfaction.csv
 │
 ├── Images/
 │   ├── ![Dashboard](Images/DANO-AIRLINE-DASHBOARD.jpeg)
