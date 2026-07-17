@@ -56,7 +56,7 @@ The following data preparation steps were performed:
 
 ## Dashboard
 
-![Dashboard](Images/DANO AIRLINE DASHBOARD.jpeg)
+![Dashboard](Images/DANO-AIRLINE-DASHBOARD.jpeg)
 
 ---
 
